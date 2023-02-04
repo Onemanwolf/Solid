@@ -1,0 +1,4 @@
+C:\Users\tioleson\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csprojAssemblyReference.cache
+C:\Users\tioleson\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+C:\Users\tioleson\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+C:\Users\tioleson\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.CoreCompileInputs.cache
