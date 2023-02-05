@@ -2,3 +2,17 @@ C:\Users\tioleson\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csprojA
 C:\Users\tioleson\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
 C:\Users\tioleson\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
 C:\Users\tioleson\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\Solid\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.AssemblyReference.cache
+C:\Users\timot\source\repos\Solid\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\source\repos\Solid\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+C:\Users\timot\source\repos\Solid\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+C:\Users\timot\source\repos\Solid\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\Solid\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.exe
+C:\Users\timot\source\repos\Solid\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.deps.json
+C:\Users\timot\source\repos\Solid\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.json
+C:\Users\timot\source\repos\Solid\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.dev.json
+C:\Users\timot\source\repos\Solid\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.dll
+C:\Users\timot\source\repos\Solid\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\timot\source\repos\Solid\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.dll
+C:\Users\timot\source\repos\Solid\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\timot\source\repos\Solid\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.genruntimeconfig.cache

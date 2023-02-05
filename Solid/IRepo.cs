@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Solid
 {
+    //LSP - Liskov Substitution Principle
     public interface IRepo<T>
     {
-        void Save();
-        void Update(T id);
-        void Delete(T id);
-        void Get(T id);
+        void Save(T person);
+        void Update(int id, T person);
+        void Delete(int id);
+        T Get(int id);
         IEnumerable<T> GetAll();
 
     }
