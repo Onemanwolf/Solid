@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Solid
 {
-    public interface IHunter
+    public interface IHunter : IChef
     {
         void Hunt();
-        void Cook();
+       
         void BuildFire();
-        
+
     }
 }
