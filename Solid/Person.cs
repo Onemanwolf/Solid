@@ -1,5 +1,6 @@
 namespace Solid
 {
+    //SRP Single Responsibility Principle
     public class Person : IPerson
     {
 
