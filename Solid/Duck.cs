@@ -8,7 +8,7 @@ namespace Solid
         {
         public void Walk()
         {
-
+            //Implement Walk behavior here
         }
 
 
@@ -42,27 +42,27 @@ namespace Solid
 
         public void Run()
         {
-            throw new NotImplementedException();
+
         }
 
         public void Eat()
         {
-            throw new NotImplementedException();
+
         }
 
         public void Sleep()
         {
-            throw new NotImplementedException();
+
         }
 
         public void Vocalize(string type)
         {
-            throw new NotImplementedException();
+
         }
 
         public void Land()
         {
-            throw new NotImplementedException();
+
         }
     }
 

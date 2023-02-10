@@ -1,6 +1,6 @@
 ﻿namespace Solid
 {
-    public interface IBird
+    public interface IBird 
     {
 
         void Fly();

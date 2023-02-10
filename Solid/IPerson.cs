@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Solid
 {
     //LSP - Liskov Substitution Principle
+    //OCP - Open Closed Principle
     public interface IPerson
     {
         void Speak();
